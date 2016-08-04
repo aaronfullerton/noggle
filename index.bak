@@ -16,13 +16,12 @@
     	}
 
     	h2 {
-    		font-family: "KG When Oceans Rise";
     		display: inline-block;
     		padding: 10px;
     		margin: 0;
     		width: 80px;
     		height: 80px;
-    		line-height: 78px;
+    		line-height: 68px;
     		font-size: 48px;
     		text-align: center;
     		position: relative;
@@ -36,7 +35,7 @@
 			top: 50%;
 			left: 50%;
 			transform: translate(-50%, -50%);
-			color: #1D9AB2;
+			color: orange;
 			font-weight: 300;
 		};
 
@@ -54,51 +53,11 @@
     	}
 
 		.row1 h2.box2:before {
-			color: #c20018;
+			color: #ff22aa;
 		}
 
-		.row1 h2.box3:before {
-			color: #5DB12F;
-		}
-
-		.row1 h2.box4:before{
-			color:#F04888;
-		}
-
-		.row2 h2.box1:before{
-			color:#F04888;
-		}
-
-		.row2 h2.box2:before{
-			color: #5DB12F;
-		}
-
-		.row2 h2.box4:before{
-			color:#c20018;
-		}
-
-		.row3 h2.box1:before{
-			color:#c20018;
-		}
-
-		.row3 h2.box3:before{
-			color:#F04888;
-		}
-
-		.row3 h2.box4:before{
-			color:#5DB12F;
-		}
-
-		.row4 h2.box1:before{
-			color:#5DB12F;
-		}	
-
-		.row4 h2.box2:before{
-			color:#F04888;
-		}
-
-		.row4 h2.box3:before{
-			color:#c20018;
+		.row3 h2.box3:before {
+			color: blue;
 		}
 
     </style>
